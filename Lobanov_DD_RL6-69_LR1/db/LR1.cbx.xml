@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="LR1">
+		<CBX_INST_ENTRY INSTANCE_NAME="|main|BUSMUX:inst2|lpm_mux:$00000" CBX_FILE_NAME="mux_arc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
